@@ -1,5 +1,3 @@
-![Scalable-Secure-Insurance-Exchange-Application](https://user-images.githubusercontent.com/13980382/130314662-a5a2f89a-ba46-4cef-8698-a22f0f698ca8.png)
-
 Rough Verbal Idea given by the customer for their upcoming Product Requirement
 1.	We have an Insurance Plan to be build
 a.	Channel Partners
@@ -31,6 +29,8 @@ Customer Tech Team understanding for below AWS usage
 
 Solution: 1. Diagram 2. Descriptions
 
+![Scalable-Secure-Insurance-Exchange-Application](https://user-images.githubusercontent.com/13980382/130314662-a5a2f89a-ba46-4cef-8698-a22f0f698ca8.png)
+
 Note: Above Solution can be divided into 3 Different Requirement
 1.	How to Protect Data at Rest with Amazon EC2 Instance Store Encryption
 a.	The administrator encrypts a secret password by using KMS. The encrypted password is stored in a file.
@@ -53,6 +53,4 @@ c.	Amazon DynamoDB to store and retrieve data.
 d.	Amazon Simple Notification Service (SNS) to publish SMS messages.
 e.	AWS Key Management Service (KMS) to encrypt and decrypt the OTP.
 f.	Amazon Cognito identity pool to obtain temporary AWS credentials to use KMS
-![image](https://user-images.githubusercontent.com/13980382/130731807-4cf88d20-4def-4b49-954b-f54868b67dc5.png)
-
 # scalable-secure-vendor-insurance-app-on-aws
